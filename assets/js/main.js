@@ -5,9 +5,9 @@
    whatsapp / phone: digits only with country code (India = 91), e.g. "919876543210"
    ============================================================ */
 const SITE = {
-  whatsapp: "91XXXXXXXXXX",
-  phone: "91XXXXXXXXXX",
-  phoneDisplay: "+91 XXXXX XXXXX",
+  whatsapp: "918669406563",
+  phone: "918669406563",
+  phoneDisplay: "+91 86694 06563",
   email: "",          // optional, e.g. "hello@naivedya.in"
   address: "",        // optional, e.g. "Village, Taluka, District, Maharashtra 4XXXXX"
   fssai: "",          // optional, e.g. "12345678901234" — shown in the footer when set
